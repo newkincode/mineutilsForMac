@@ -6,9 +6,6 @@ name = "pypi"
 [packages]
 minecraft-launcher-lib = "*"
 pyinstaller = "*"
-pmlauncher = "*"
-pip = "*"
-setuptools = "*"
 
 [dev-packages]
 
