@@ -258,3 +258,5 @@ dist/*
 dist/
 *.spec
 Pipfile.lock
+game/*
+gmae/

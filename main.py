@@ -1,7 +1,7 @@
 import tkinter
 import minecraft_launcher_lib
 from pmlauncher import pml, mlogin, mlaunchoption
-from pycraft import authentication
+from pmlauncher import authentication
 import subprocess
 import sys
 import os
